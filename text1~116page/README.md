@@ -1,3 +1,0 @@
-# TypeScriptExercise
-初めてのサンプルを登録します
-TypeScript実践マスターより。

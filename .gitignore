@@ -1,0 +1,9 @@
+README.*
+*.md
+*.js
+*.json
+*.cmd
+LICENSE
+lib.*
+*.yml
+*.png
